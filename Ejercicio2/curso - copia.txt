@@ -1,0 +1,18 @@
+BC1|Borland C++ Nivel I|Linares Alarcon, Adams
+BC2|Borland C++ Nivel II|Córdoba Saavedra, Javier
+BC3|Borland C++ Nivel III|Castillo Peralta, Carlos
+VB1|MS Visual Basic Nivel I|Linares Alarcon, Adams
+VB2|MS Visual Basic Nivel II|Linares Alarcon, Adams
+VB3|MS Visual Basic Nivel III|Castillo Peralta, Carlos
+VC1|MS Visual C++ Nivel I|Córdoba Saavedra, Javier
+VC2|MS Visual C++ Nivel II|Castillo Peralta, Carlos
+VJ1|MS Visual J++ Nivel I|Castillo Peralta, Carlos
+VJ2|MS Visual J++ Nivel II|Castillo Peralta, Carlos
+VF1|MS Visual FoxPro Nivel I|Linares Alarcon, Adams
+VF2|MS Visual FoxPro Nivel II|Castillo Peralta, Carlos
+VF3|MS Visual FoxPro Nivel III|Linares Alarcon, Adams
+PB1|Power Builder Nivel I|Córdoba Saavedra, Javier
+PB2|Power Builder Nivel II|Córdoba Saavedra, Javier
+SQ1|MS SQL Server Nivel I|Córdoba Saavedra, Javier
+SQ2|MS SQL Server Nivel II|Córdoba Saavedra, Javier
+WIN|MS Windows 98|Montes Tejada, Estela
