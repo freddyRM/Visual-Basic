@@ -1,0 +1,12 @@
+C:\Users\Frodriguez\Desktop\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\Frodriguez\Desktop\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\Frodriguez\Desktop\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\Frodriguez\Desktop\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.xml
+C:\Users\Frodriguez\Desktop\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.vbprojAssemblyReference.cache
+C:\Users\Frodriguez\Desktop\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Form1.resources
+C:\Users\Frodriguez\Desktop\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Resources.resources
+C:\Users\Frodriguez\Desktop\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.vbproj.GenerateResource.cache
+C:\Users\Frodriguez\Desktop\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.vbproj.CoreCompileInputs.cache
+C:\Users\Frodriguez\Desktop\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\Frodriguez\Desktop\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.xml
+C:\Users\Frodriguez\Desktop\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
